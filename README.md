@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Im new on github. I created this account to upload my projects of the school.
+
 <!--
 **Benderdll/Benderdll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
